@@ -5,7 +5,7 @@
 
 # `Indice`
 
-<a href="#Tecnologias-utilizadas">1. Tecnologia utilizada</a> <br />
+<a href="#Tecnologia-utilizada">1. Tecnologia utilizada</a> <br />
 <a href="#Como-baixar-o-projeto">2. Como baixar o projeto</a>
 
 ---
